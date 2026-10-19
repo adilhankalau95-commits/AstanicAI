@@ -1,0 +1,19 @@
+{
+  "id": "/",
+  "name": "Astanik AI — ИИ-гид по Астане",
+  "short_name": "Astanik AI",
+  "description": "Интеллектуальный ИИ-помощник по прогулкам в городе Астана на базе RAG и мультимодального ИИ-агента.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F4F8FD",
+  "theme_color": "#38BDF8",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

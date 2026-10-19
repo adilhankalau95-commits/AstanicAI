@@ -1,0 +1,6 @@
+{
+  "name": "Astanik AI — ИИ-гид по Астане",
+  "description": "Интеллектуальный ИИ-помощник по прогулкам в городе Астана на базе RAG, гео-поиска OpenStreetMap и мультимодального AR Vision гида.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

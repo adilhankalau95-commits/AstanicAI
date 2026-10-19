@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="512" y2="512" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#BAE6FD" />
+      <stop offset="50%" stop-color="#7DD3FC" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+    <radialGradient id="bodyGrad" cx="35%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#93C5FD" />
+      <stop offset="55%" stop-color="#60A5FA" />
+      <stop offset="100%" stop-color="#2563EB" />
+    </radialGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="url(#bg)" />
+  <circle cx="155" cy="145" r="36" fill="url(#bodyGrad)" />
+  <circle cx="357" cy="145" r="36" fill="url(#bodyGrad)" />
+  <ellipse cx="256" cy="275" rx="145" ry="135" fill="url(#bodyGrad)" />
+  <ellipse cx="200" cy="255" rx="22" ry="26" fill="#0F172A" />
+  <circle cx="192" cy="245" r="8" fill="#FFFFFF" />
+  <ellipse cx="312" cy="255" rx="22" ry="26" fill="#0F172A" />
+  <circle cx="304" cy="245" r="8" fill="#FFFFFF" />
+  <ellipse cx="160" cy="285" rx="18" ry="10" fill="#FB7185" opacity="0.55" />
+  <ellipse cx="352" cy="285" rx="18" ry="10" fill="#FB7185" opacity="0.55" />
+  <path d="M 232 285 Q 256 312 280 285" stroke="#0F172A" stroke-width="10" stroke-linecap="round" fill="none" />
+</svg>
